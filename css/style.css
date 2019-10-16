@@ -1,0 +1,17 @@
+.box1{
+	min-height: 50px;
+	background-color: red;
+	margin-bottom: 20px;
+	font-size: 30px;
+}
+.gold{
+	background-color: gold;
+
+}
+.aqua{
+	background-color: aqua;
+
+}
+.lt-blue{
+	background-color: #9B82F8;
+}
